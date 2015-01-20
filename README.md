@@ -1,0 +1,2 @@
+# vagrant_centos_5.8_i368_minimal_server
+vagrant_centos_5.8_i368_minimal_server
